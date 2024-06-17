@@ -2,7 +2,6 @@ const {Client} = require("discord.js-selfbot-v11");
 const client = new Client();
 const request = require("request");
 const colors = require("colors");
-
 const {token,gatilho} = require("./zeck.json");
 process.on("unhandledRejection", e => {});
 process.on("uncaughtException", e => {});
